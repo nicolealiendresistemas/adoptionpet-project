@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415901838120",
+    "project_id": "adopcionproyecto-d310d",
+    "storage_bucket": "adopcionproyecto-d310d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415901838120:android:88f9d5d8c3c1b25acfbe1d",
+        "android_client_info": {
+          "package_name": "com.example.adopcionproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqpK2Fpj4YGWhCg8JCKTGFmWg5I2Zvsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
